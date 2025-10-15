@@ -4,6 +4,18 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 Mark Benders | Beef
 
+Kseniya Liavitskaya | Syrniki (cheese pancakes)
+
+Amanda - Pasta
+
+RuiWang - Ramen
+
+Daniella Rabayev | Sushi
+
+Ana Paredes | Pasta
+
+Scharffi | French Fries
+
 Jeffrey Yu | Sushi
 
 Toni-Ann McDaniel | Saltfish
@@ -40,7 +52,7 @@ Aidan | German Sausages (Second time posting)
 
 Isabella Esquilin | Dumplings
 
-Zara | Pasta 
+Zara | Pasta
 
 Kadeem Miller | Pizza/Burgers
 
@@ -288,7 +300,7 @@ Aakash | Ramen
 
 Dhyey | Vadapav
 
-Samuel Viveros | Spicy Steak & French Fries
+Samuel Viveros | Spicy Steak \& French Fries
 
 Yash J | Pizza
 
@@ -320,7 +332,7 @@ Zia | Fried fish
 
 Yash Kawade | Paani Puri
 
-Ceasar-2 | Chicken & Waffles
+Ceasar-2 | Chicken \& Waffles
 
 Freddy Amgad | burger
 
@@ -707,3 +719,4 @@ Bangling|Asian food
 Bangling|AsianFood
 
 Dante | Pizza
+
