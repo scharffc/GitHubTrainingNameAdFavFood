@@ -2,27 +2,7 @@ What is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
 
-Ana Paredes | Mooncake
-
-Ray | Doner
-
-Jonathan Lee | Ramen
-
-Uday Brathwaite | Chicken
-
-Mark Benders | Beef
-
-Kseniya Liavitskaya | Syrniki (cheese pancakes)
-
-Amanda - Pasta
-
-RuiWang - Ramen
-
-Daniella Rabayev | Sushi
-
-Ana Paredes | Pasta
-
-Omar Alcantar | Cheeseburger
+Ansh | Pasta
 
 Scharffi | French Fries
 
