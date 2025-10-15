@@ -5,6 +5,8 @@ RuiWang - Ramen
 
 Daniella Rabayev | Sushi
 
+Ana Paredes | Pasta
+
 Scharffi | French Fries
 
 Jeffrey Yu | Sushi
