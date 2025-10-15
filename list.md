@@ -17,6 +17,18 @@ Amanda - Pasta
 
 RuiWang - Ramen
 
+Aaron Chiu | Chicken Sandwich
+
+Alex V | Sushi
+
+Mark Benders | Beef
+
+Kseniya Liavitskaya | Syrniki (cheese pancakes)
+
+Amanda - Pasta
+
+RuiWang - Ramen
+
 Daniella Rabayev | Sushi
 
 Ana Paredes | Pasta
