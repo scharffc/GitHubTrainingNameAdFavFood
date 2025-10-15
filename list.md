@@ -4,7 +4,13 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 Aaron | Chicken Sandwich
 
+Amanda - Pasta
+
+RuiWang - Ramen
+
 Daniella Rabayev | Sushi
+
+Ana Paredes | Pasta
 
 Scharffi | French Fries
 
