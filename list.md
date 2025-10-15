@@ -4,6 +4,12 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 Aaron | Chicken Sandwich
 
+Alex V | Sushi
+
+Mark Benders | Beef
+
+Kseniya Liavitskaya | Syrniki (cheese pancakes)
+
 Amanda - Pasta
 
 RuiWang - Ramen
