@@ -4,13 +4,15 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 Raisa | Doner Kebab
 
+Sebastien | Mac and Cheese
+
 Omar | Cheeseburger
 
-Joseph | Lamb 
+Joseph | Lamb
 
 Sadia | Pizza
 
-Kieara Blackwood | Pasta 
+Kieara Blackwood | Pasta
 
 Ciaran | Beef Bulgogi
 
@@ -751,4 +753,3 @@ Bangling|Asian food
 Bangling|AsianFood
 
 Dante | Pizza
-
