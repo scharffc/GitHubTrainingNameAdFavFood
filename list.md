@@ -26,6 +26,8 @@ Mark Benders | Beef
 
 Nowah Stewart | Mac and Cheese
 
+Diya Brown | Shrimp Alfredo
+
 Kseniya Liavitskaya | Syrniki (cheese pancakes)
 
 Amanda - Pasta
