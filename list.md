@@ -6,6 +6,22 @@ Jash | Gelato
 
 Jash | Gelato
 
+Abubakar | Biryani
+
+Anel | Ramen
+
+Fall2025Daniel | Chicken Parm
+
+James | Chapatis
+
+Spencer | Baked Ziti
+
+Christos | Souvlaki
+
+Sarvesh | Chhole Bhature
+
+Siming | Dumpling
+
 Pratik | Cheese Pizza
 
 Maren | Tacos
