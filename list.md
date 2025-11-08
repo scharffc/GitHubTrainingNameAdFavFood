@@ -4,6 +4,10 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 Christos | Souvlaki
 
+Sarvesh | Biryani
+
+Siming | Dumpling
+
 Pratik | Cheese Pizza
 
 Maren | Tacos
