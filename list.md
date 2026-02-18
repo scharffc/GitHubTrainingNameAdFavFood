@@ -8,6 +8,8 @@ Melody | Mango
 
 Sofia | Crunchy Green Grapes
 
+Vincent | Rice
+
 Jash | Ramen
 
 Mohammed | Fufu
