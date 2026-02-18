@@ -5,6 +5,7 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 Justin | Curry Goat
 
 Justin | Pop-Tarts
+Melody | Mango
 
 Jash | Ramen
 
