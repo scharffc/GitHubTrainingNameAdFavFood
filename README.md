@@ -8,7 +8,7 @@ More than 340 students learned about using Git collaboratively so far.
 
 You can know more about the GitHub Game from [https://bit.ly/githubgame](here).
 
-_Reference: The GitHb Game was designed by Sara Farag, Bellevue College and Microsoft New Technologists _
+Reference: The GitHb Game was designed by Sara Farag, Bellevue College and the Microsoft New Technologists program
 
 
 
