@@ -4,6 +4,8 @@ Liam | Burmger
 
 Melody | Mango
 
+Sofia | Crunchy Green Grapes
+
 Jash | Ramen
 
 Mohammed | Fufu
