@@ -24,21 +24,7 @@ Sofia | Crunchy Green Grapes
 
 Vincent | Rice
 
-Julia | Pieorgi
-
 Julia | Zapiekanka
-
-
-
-Lucas | Pasta
-
-Lucas | Chili
-
-Lucas | Chili
-
-Vincent | Noodle
-
-lisa | chickfila 
 
 Jash | Ramen
 
