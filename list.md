@@ -1,8 +1,31 @@
-Jasmine | Pho
+
+what is your name, favorite food?
+
+Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
+
+Jake | Steak
+
+Janessia | Rasta Pasta
+
+Jack | Pizza
+
+Jalyin | Soup
+
+Luca | Fried Rice
+
+Luca | Risotto
+
+Jaiden | Rice
+
+Jalyin | Pasta
 
 Jaiden | Rice
 
 Aaron Marsch | Beans and Toast
+
+Edmund Zhong | Pizza
+
+Liam | Burrito
 
 Liam | Burmger
 
@@ -20,7 +43,21 @@ Sofia | Crunchy Green Grapes
 
 Vincent | Rice
 
+Julia | Pieorgi
+
 Julia | Zapiekanka
+
+
+
+Lucas | Pasta
+
+Lucas | Chili
+
+Lucas | Chili
+
+Vincent | Noodle
+
+lisa | chickfila 
 
 Jash | Ramen
 
@@ -807,3 +844,4 @@ Bangling|Asian food
 Bangling|AsianFood
 
 Dante | Pizza
+
