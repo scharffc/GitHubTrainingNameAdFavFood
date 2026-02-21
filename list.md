@@ -2,9 +2,10 @@ Amy | Kbbq what is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
 
-<<<<<<< HEAD
+Sophia | Mapo Tofu
+
 Sophia | Tempura
-=======
+
 Jasmine | Pho
 
 Jake | Steak
@@ -30,7 +31,6 @@ Aaron Marsch | Beans and Toast
 Edmund Zhong | Pizza
 
 Liam | Burrito
->>>>>>> origin/main
 
 Liam | Burmger
 
