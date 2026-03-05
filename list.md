@@ -1,3 +1,5 @@
+Ty | sushi
+
 Jake | steak
 
 Amy | Kbbq what is your name, favorite food?
