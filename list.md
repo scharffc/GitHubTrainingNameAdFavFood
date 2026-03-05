@@ -1,8 +1,34 @@
-What is your name, favorite food?
+Jake | steak
+
+Amy | Kbbq what is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
 
+Isabel | Sushi and Ramen <3
+
+Sofia and Melody | Honey Mustard Pretzels
+
 Melody | Mango
+
+Sofia | Crunchy Green Grapes
+
+Vincent | Rice
+
+Julia | Pieorgi
+
+Julia | Zapiekanka
+
+
+
+Lucas | Pasta
+
+Lucas | Chili
+
+Lucas | Chili
+
+Vincent | Noodle
+
+lisa | chickfila
 
 Jash | Ramen
 
@@ -789,6 +815,7 @@ Bangling|Asian food
 Bangling|AsianFood
 
 Dante | Pizza
+
 
 Kaiyuan Duan | Hot Pot
 
