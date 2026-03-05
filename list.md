@@ -4,6 +4,8 @@ Amy | Kbbq what is your name, favorite food?
 
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
 
+Tristan | Shrimp Tempura Roll
+
 Isabel | Sushi and Ramen <3
 
 Sofia and Melody | Honey Mustard Pretzels
