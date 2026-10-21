@@ -2,12 +2,9 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 what is your name, favorite food?
 
-<<<<<<< HEAD
 Liam | california roll
 
 Liam | vodka pasta
-=======
-
 
 Katrina | Spicy Ramen
 
