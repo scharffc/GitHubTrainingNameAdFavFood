@@ -876,4 +876,4 @@ Bangling|AsianFood
 
 Dante | Pizza
 
-Aleks | Wings
+Aleks | Wings & Pizza
