@@ -2,6 +2,8 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 what is your name, favorite food?
 
+Kaan | Iskender
+
 Martin | Chicken Nuggets
 
 Chris | French fries
