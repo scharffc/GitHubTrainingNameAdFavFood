@@ -2,8 +2,8 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 what is your name, favorite food?
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
 Kerisa | i fricken love pistachios
 =======
 Riley | Cheeseburger
@@ -12,7 +12,7 @@ Riley | Cheeseburger
 Katrina | Spicy Ramen
 
 Kerisa | RAMENN RAHH
-<<<<<<< HEAD
+
 =======
 
 Martin | Spicy Chicken Nuggets
