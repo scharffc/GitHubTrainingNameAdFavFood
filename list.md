@@ -1,6 +1,9 @@
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
 
 what is your name, favorite food?
+
+Kerisa | i fricken love pistachios
+
 Katrina | Spicy Ramen
 
 Kerisa | RAMENN RAHH
