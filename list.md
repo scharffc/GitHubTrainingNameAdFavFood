@@ -1,8 +1,19 @@
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
-
 what is your name, favorite food?
 
 Ivan | Tacos
+Kaan | Iskender
+
+Dennis | Burger
+
+Liam | california roll
+
+Liam | vodka pasta
+
+Katrina | Spicy Ramen
+
+Kerisa | i fricken love pistachios
+
 Riley | Cheeseburger
 
 Katrina | Spicy Ramen
@@ -13,6 +24,12 @@ Martin | Spicy Chicken Nuggets
 
 Daima | Sushi
 
+Kaan | Iskender
+
+Prachi | Biryani
+
+Riley | Ramen
+
 Martin | Chicken Nuggets
 
 Chris | French fries
@@ -22,6 +39,8 @@ Yineiry | Enchiladas
 Jake | steak
 
 Amy | Kbbq
+
+Riley | Cheeseburger
 
 Dennis | Pizza
 
@@ -843,3 +862,4 @@ Bangling|AsianFood
 
 Dante | Pizza
 
+Aleks | Wings & Pizza
