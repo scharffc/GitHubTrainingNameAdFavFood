@@ -1,52 +1,21 @@
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
-
 what is your name, favorite food?
 
-
-
-Kaan | Iskender (delete again I will find you in the blame)
-
-<<<<<<< HEAD
-
-=======
+Kaan | Iskender 
 Dennis | Burger
-
 Liam | california roll
-
 Liam | vodka pasta
-
-
-
 Katrina | Spicy Ramen
-
->>>>>>> 9e838c9b172714140c7db4762b7fb5a4c0fdf40b
 Kerisa | i fricken love pistachios
-
 Riley | Cheeseburger
-
 Katrina | Spicy Ramen
-
 Kerisa | RAMENN RAHH
-
 Martin | Spicy Chicken Nuggets
-
 Daima | Sushi
-
-
-=======
-=======
->>>>>>> 4c006ae7ef91ef87ef61c0d02be5795f059ab640
->>>>>>> 9e838c9b172714140c7db4762b7fb5a4c0fdf40b
 Kaan | Iskender
-
 Prachi | Biryani
->>>>>>> 71190a0b5e29d0b02acdb1a3a20a25cd7a6cbf5a
-
 Riley | Ramen
->>>>>>> 4c006ae7ef91ef87ef61c0d02be5795f059ab640
-
 Martin | Chicken Nuggets
-
 Chris | French fries
 
 Yineiry | Enchiladas
