@@ -2,6 +2,8 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 what is your name, favorite food?
 
+Victor | Chicken Parm
+
 Martin | Chicken Nuggets
 
 Chris | French fries
@@ -29,8 +31,6 @@ Vincent | Rice
 Julia | Pieorgi
 
 Julia | Zapiekanka
-
-
 
 Lucas | Pasta
 
@@ -827,4 +827,3 @@ Bangling|Asian food
 Bangling|AsianFood
 
 Dante | Pizza
-
