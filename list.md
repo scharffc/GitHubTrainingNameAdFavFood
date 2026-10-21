@@ -3,7 +3,7 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 what is your name, favorite food?
 
 
-
+Daima | Sushi
 Kerisa | i fricken love pistachios
 =======
 Riley | Cheeseburger
@@ -19,7 +19,7 @@ Martin | Spicy Chicken Nuggets
 >>>>>>> b9d171281d3ce89e064ad9549251d3574d212029
 
 Daima | Sushi
-=======
+
 Kaan | Iskender
 
 Prachi | Biryani
