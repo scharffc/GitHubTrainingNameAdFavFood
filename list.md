@@ -3,6 +3,17 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 what is your name, favorite food?
 
 Ivan | Tacos
+Riley | Cheeseburger
+
+Katrina | Spicy Ramen
+
+Kerisa | RAMENN RAHH
+
+Martin | Spicy Chicken Nuggets
+
+Daima | Sushi
+
+Martin | Chicken Nuggets
 
 Chris | French fries
 
@@ -11,6 +22,10 @@ Yineiry | Enchiladas
 Jake | steak
 
 Amy | Kbbq
+
+Dennis | Pizza
+
+Dennis | Sushi
 
 Aaron | Beans
 
