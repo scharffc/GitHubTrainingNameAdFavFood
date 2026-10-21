@@ -3,7 +3,11 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 what is your name, favorite food?
 Katrina | Spicy Ramen
 
+<<<<<<< HEAD
+Kerisa | RAMENN RAHH
+=======
 Martin | Spicy Chicken Nuggets
+>>>>>>> 01dc600c315e7cf9b7bc9c50c4adbbbf53148485
 
 Daima | Sushi
 
