@@ -4,11 +4,13 @@ what is your name, favorite food?
 
 
 
+Chris | French fries
+
 Yineiry | Enchiladas
 
 Jake | steak
 
-Amy | Kbbq 
+Amy | Kbbq
 
 Aaron | Beans
 
