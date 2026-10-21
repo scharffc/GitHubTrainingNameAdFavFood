@@ -4,19 +4,17 @@ what is your name, favorite food?
 
 
 
+Katrina | Spicy Ramen
+
 Kerisa | i fricken love pistachios
-=======
+
 Riley | Cheeseburger
->>>>>>> b9d171281d3ce89e064ad9549251d3574d212029
 
 Katrina | Spicy Ramen
 
 Kerisa | RAMENN RAHH
 
-=======
-
 Martin | Spicy Chicken Nuggets
->>>>>>> b9d171281d3ce89e064ad9549251d3574d212029
 
 Daima | Sushi
 =======
