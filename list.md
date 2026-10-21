@@ -3,11 +3,10 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 what is your name, favorite food?
 
 Dennis | Burger
-Katrina | Spicy Ramen
 
-Martin | Spicy Chicken Nuggets
+Kaan | Iskender
 
-Daima | Sushi
+Prachi | Biryani
 
 Martin | Chicken Nuggets
 
