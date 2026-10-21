@@ -2,30 +2,47 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 what is your name, favorite food?
 
+<<<<<<< HEAD
 
-Daima | Sushi
-Kerisa | i fricken love pistachios
+<<<<<<< HEAD
+
 =======
+Dennis | Burger
+
+Liam | california roll
+
+Liam | vodka pasta
+>>>>>>> 9d8d1a5fb7690e86ac3250b393c97faf06e1df69
+=======
+
+
+Katrina | Spicy Ramen
+
+>>>>>>> 9e838c9b172714140c7db4762b7fb5a4c0fdf40b
+Kerisa | i fricken love pistachios
+
 Riley | Cheeseburger
->>>>>>> b9d171281d3ce89e064ad9549251d3574d212029
 
 Katrina | Spicy Ramen
 
 Kerisa | RAMENN RAHH
 
-=======
-
 Martin | Spicy Chicken Nuggets
->>>>>>> b9d171281d3ce89e064ad9549251d3574d212029
 
 Daima | Sushi
 
+
+=======
+=======
+>>>>>>> 4c006ae7ef91ef87ef61c0d02be5795f059ab640
+>>>>>>> 9e838c9b172714140c7db4762b7fb5a4c0fdf40b
 Kaan | Iskender
 
 Prachi | Biryani
 >>>>>>> 71190a0b5e29d0b02acdb1a3a20a25cd7a6cbf5a
 
 Riley | Ramen
+>>>>>>> 4c006ae7ef91ef87ef61c0d02be5795f059ab640
 
 Martin | Chicken Nuggets
 
@@ -859,3 +876,4 @@ Bangling|AsianFood
 
 Dante | Pizza
 
+Aleks | Wings
