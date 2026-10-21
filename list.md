@@ -3,7 +3,10 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 what is your name, favorite food?
 
 
+
 Katrina | Spicy Ramen
+
+Kerisa | i fricken love pistachios
 
 Riley | Cheeseburger
 
@@ -14,6 +17,13 @@ Kerisa | RAMENN RAHH
 Martin | Spicy Chicken Nuggets
 
 Daima | Sushi
+=======
+Kaan | Iskender
+
+Prachi | Biryani
+>>>>>>> 71190a0b5e29d0b02acdb1a3a20a25cd7a6cbf5a
+
+Riley | Ramen
 
 Martin | Chicken Nuggets
 
@@ -24,6 +34,8 @@ Yineiry | Enchiladas
 Jake | steak
 
 Amy | Kbbq
+
+Riley | Cheeseburger
 
 Dennis | Pizza
 
