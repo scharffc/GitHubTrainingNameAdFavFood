@@ -3,6 +3,8 @@ what is your name, favorite food?
 
 Karlensky | Pizza
 
+Jordan | Cheesecake
+
 Kaan | Iskender
 
 Dennis | Burger
@@ -65,7 +67,7 @@ Julia | Pieorgi
 
 Julia | Zapiekanka
 
-
+Lavisha | Ramen
 
 Lucas | Pasta
 
