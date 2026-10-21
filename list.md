@@ -2,15 +2,7 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 what is your name, favorite food?
 
-Riley | Cheeseburger
-
-Katrina | Spicy Ramen
-
-Kerisa | RAMENN RAHH
-
-Martin | Spicy Chicken Nuggets
-
-Daima | Sushi
+Kaan | Iskender
 
 Prachi | Biryani
 
