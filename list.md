@@ -3,6 +3,8 @@ what is your name, favorite food?
 
 Jared | Brownie
 
+Sophia | Mac and cheese
+
 Ivan | Tacos
 
 Dennis | Fries
