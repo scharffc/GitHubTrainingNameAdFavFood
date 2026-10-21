@@ -14,6 +14,8 @@ Jake | steak
 
 Amy | Kbbq
 
+Dennis | Sushi
+
 Aaron | Beans
 
 Aaron | Toast
