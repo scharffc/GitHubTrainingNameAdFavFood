@@ -2,7 +2,11 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 what is your name, favorite food?
 
+<<<<<<< HEAD
 Jordan | Cheesecake
+=======
+Martin | Spicy Chicken Nuggets
+>>>>>>> origin/main
 
 Martin | Chicken Nuggets
 
@@ -13,6 +17,8 @@ Yineiry | Enchiladas
 Jake | steak
 
 Amy | Kbbq
+
+Dennis | Sushi
 
 Aaron | Beans
 
