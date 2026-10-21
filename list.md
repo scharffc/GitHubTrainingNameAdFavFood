@@ -2,15 +2,16 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 what is your name, favorite food?
 
-<<<<<<< HEAD
+
+
+Kaan | Iskender (delete again I will find you in the blame)
 
 Dennis | Burger
 
 Liam | california roll
 
 Liam | vodka pasta
->>>>>>> 9d8d1a5fb7690e86ac3250b393c97faf06e1df69
-=======
+
 
 
 Katrina | Spicy Ramen
