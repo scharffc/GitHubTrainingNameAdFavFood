@@ -2,11 +2,18 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 what is your name, favorite food?
 
-Katrina | Spicy Ramen
 
 Katrina | Spicy Ramen
+
+Riley | Cheeseburger
+
+Katrina | Spicy Ramen
+
+Kerisa | RAMENN RAHH
 
 Martin | Spicy Chicken Nuggets
+
+Daima | Sushi
 
 Martin | Chicken Nuggets
 
@@ -17,6 +24,8 @@ Yineiry | Enchiladas
 Jake | steak
 
 Amy | Kbbq
+
+Dennis | Pizza
 
 Dennis | Sushi
 
