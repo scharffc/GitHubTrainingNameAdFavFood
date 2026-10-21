@@ -4,6 +4,9 @@ what is your name, favorite food?
 
 <<<<<<< HEAD
 
+<<<<<<< HEAD
+
+=======
 Dennis | Burger
 
 Liam | california roll
@@ -15,6 +18,7 @@ Liam | vodka pasta
 
 Katrina | Spicy Ramen
 
+>>>>>>> 9e838c9b172714140c7db4762b7fb5a4c0fdf40b
 Kerisa | i fricken love pistachios
 
 Riley | Cheeseburger
@@ -26,8 +30,12 @@ Kerisa | RAMENN RAHH
 Martin | Spicy Chicken Nuggets
 
 Daima | Sushi
+
+
+=======
 =======
 >>>>>>> 4c006ae7ef91ef87ef61c0d02be5795f059ab640
+>>>>>>> 9e838c9b172714140c7db4762b7fb5a4c0fdf40b
 Kaan | Iskender
 
 Prachi | Biryani
