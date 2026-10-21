@@ -1,6 +1,9 @@
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
 
 what is your name, favorite food?
+Katrina | Spicy Ramen
+
+Martin | Spicy Chicken Nuggets
 
 Riley | Cheeseburger
 
@@ -13,6 +16,10 @@ Yineiry | Enchiladas
 Jake | steak
 
 Amy | Kbbq
+
+Dennis | Pizza
+
+Dennis | Sushi
 
 Aaron | Beans
 
