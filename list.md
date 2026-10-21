@@ -3,6 +3,7 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 what is your name, favorite food?
 
 Liam | vodka pasta
+Martin | Spicy Chicken Nuggets
 
 Martin | Chicken Nuggets
 
@@ -13,6 +14,8 @@ Yineiry | Enchiladas
 Jake | steak
 
 Amy | Kbbq
+
+Dennis | Sushi
 
 Aaron | Beans
 
