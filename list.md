@@ -2,7 +2,38 @@ Clone the repo, create a branch, add your name and favorite food to the list on 
 
 what is your name, favorite food?
 
+<<<<<<< HEAD
 Zachary | Cheesy Bread
+=======
+<<<<<<< HEAD
+Liam | california roll
+
+Liam | vodka pasta
+=======
+
+
+Katrina | Spicy Ramen
+
+Kerisa | i fricken love pistachios
+
+Riley | Cheeseburger
+
+Katrina | Spicy Ramen
+
+Kerisa | RAMENN RAHH
+
+Martin | Spicy Chicken Nuggets
+
+Daima | Sushi
+=======
+Kaan | Iskender
+
+Prachi | Biryani
+>>>>>>> 71190a0b5e29d0b02acdb1a3a20a25cd7a6cbf5a
+
+Riley | Ramen
+>>>>>>> 4c006ae7ef91ef87ef61c0d02be5795f059ab640
+>>>>>>> main
 
 Martin | Chicken Nuggets
 
@@ -13,6 +44,12 @@ Yineiry | Enchiladas
 Jake | steak
 
 Amy | Kbbq
+
+Riley | Cheeseburger
+
+Dennis | Pizza
+
+Dennis | Sushi
 
 Aaron | Beans
 
