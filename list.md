@@ -1,10 +1,9 @@
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
-
 what is your name, favorite food?
 
+Dennis | Fries
 
-
-Kaan | Iskender (delete again I will find you in the blame)
+Kaan | Iskender
 
 Dennis | Burger
 
