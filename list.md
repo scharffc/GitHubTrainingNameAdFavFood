@@ -5,6 +5,8 @@ Katrina | Spicy Ramen
 
 Martin | Spicy Chicken Nuggets
 
+Daima | Sushi
+
 Martin | Chicken Nuggets
 
 Chris | French fries
