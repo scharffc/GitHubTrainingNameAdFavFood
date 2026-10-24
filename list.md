@@ -1,7 +1,175 @@
-What is your name, favorite food?
-
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
-Kieara Blackwood | Pasta 
+what is your name, favorite food?
+
+Victor | Chicken Parm
+
+John | Mondongo
+
+Jared | Brownie
+
+Sophia | Mac and cheese
+
+Ivan | Tacos
+
+Dennis | Fries
+
+Karlensky | Pizza
+
+Jordan | Cheesecake
+
+Kaan | Iskender
+
+Dennis | Burger
+
+Liam | california roll
+
+Liam | vodka pasta
+
+Katrina | Spicy Ramen
+
+Kerisa | i fricken love pistachios
+
+Riley | Cheeseburger
+
+Katrina | Spicy Ramen
+
+Kerisa | RAMENN RAHH
+
+Martin | Spicy Chicken Nuggets
+
+Daima | Sushi
+
+Kaan | Iskender
+
+Prachi | Biryani
+
+Riley | Ramen
+
+Martin | Chicken Nuggets
+
+Chris | French fries
+
+Yineiry | Enchiladas
+
+Jake | steak
+
+Amy | Kbbq
+
+Riley | Cheeseburger
+
+Dennis | Pizza
+
+Dennis | Sushi
+
+Aaron | Beans
+
+Aaron | Toast
+
+Isabel | Sushi and Ramen <3
+
+Sofia and Melody | Honey Mustard Pretzels
+
+Melody | Mango
+
+Sofia | Crunchy Green Grapes
+
+Vincent | Rice
+
+Julia | Pieorgi
+
+Julia | Zapiekanka
+
+Lavisha | Ramen
+
+Lucas | Pasta
+
+Lucas | Chili
+
+Lucas | Chili
+
+Vincent | Noodle
+
+lisa | chickfila
+
+Jash | Ramen
+
+Mohammed | Fufu
+
+Arun | Biryani
+
+Kiran | Pani-Puri
+
+KushwanthFall2025-Momos
+
+Anel | Ramen
+
+Fall2025Daniel | Chicken Parm
+
+James | Chapatis
+
+Spencer | Baked Ziti
+
+Christos | Souvlaki
+
+Sarvesh | Chhole Bhature
+
+Siming | Dumpling
+
+Pratik | Cheese Pizza
+
+Maren | Tacos
+
+Stephen | Takoyaki
+
+Sandeep | Pizza
+
+Chinmay | Hot Chicken
+
+Raisa | Doner Kebab
+
+Sebastien | Mac and Cheese
+
+Omar | Cheeseburger
+
+Joseph | Lamb
+
+Sadia | Pizza
+
+Kieara Blackwood | Pasta
+
+Ciaran | Beef Bulgogi
+
+Jonathan Lee | Ramen
+
+Alex V | Sushi
+
+Mark Benders | Beef
+
+Kseniya Liavitskaya | Syrniki (cheese pancakes)
+
+Amanda - Pasta
+
+RuiWang - Ramen
+
+Aaron Chiu | Chicken Sandwich
+
+Alex V | Sushi
+
+Mark Benders | Beef
+
+Nowah Stewart | Mac and Cheese
+
+Diya Brown | Shrimp Alfredo
+
+Kseniya Liavitskaya | Syrniki (cheese pancakes)
+
+Amanda - Pasta
+
+RuiWang - Ramen
+
+Daniella Rabayev | Sushi
+
+Ana Paredes | Pasta
 
 Scharffi | French Fries
 
@@ -709,3 +877,4 @@ Bangling|AsianFood
 
 Dante | Pizza
 
+Aleks | Wings & Pizza
