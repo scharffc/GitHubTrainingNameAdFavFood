@@ -1,13 +1,291 @@
-What is your name, favorite food?
-
 Clone the repo, create a branch, add your name and favorite food to the list on your branch, and merge the branch.
+what is your name, favorite food?
+
+Victor | Chicken Parm
+
+John | Mondongo
+
+Jared | Brownie
+
+Sophia | Mac and cheese
+
+Ivan | Tacos
+
+Dennis | Fries
+
+Karlensky | Pizza
+
+Jordan | Cheesecake
+
+Kaan | Iskender
+
+Dennis | Burger
+
+Liam | california roll
+
+Liam | vodka pasta
+
+Katrina | Spicy Ramen
+
+Kerisa | i fricken love pistachios
+
+Riley | Cheeseburger
+
+Katrina | Spicy Ramen
+
+Kerisa | RAMENN RAHH
+
+Martin | Spicy Chicken Nuggets
+
+Daima | Sushi
+
+Kaan | Iskender
+
+Prachi | Biryani
+
+Riley | Ramen
+
+Martin | Chicken Nuggets
+
+Chris | French fries
+
+Yineiry | Enchiladas
+
+Jake | steak
+
+Amy | Kbbq
+
+Riley | Cheeseburger
+
+Dennis | Pizza
+
+Dennis | Sushi
+
+Aaron | Beans
+
+Aaron | Toast
+
+Isabel | Sushi and Ramen <3
+
+Sofia and Melody | Honey Mustard Pretzels
+
+Melody | Mango
+
+Sofia | Crunchy Green Grapes
+
+Vincent | Rice
+
+Julia | Pieorgi
+
+Julia | Zapiekanka
+
+Lavisha | Ramen
+
+Lucas | Pasta
+
+Lucas | Chili
+
+Lucas | Chili
+
+Vincent | Noodle
+
+lisa | chickfila
+
+Jash | Ramen
+
+Mohammed | Fufu
+
+Arun | Biryani
+
+Kiran | Pani-Puri
+
+KushwanthFall2025-Momos
+
+Anel | Ramen
+
+Fall2025Daniel | Chicken Parm
+
+James | Chapatis
+
+Spencer | Baked Ziti
+
+Christos | Souvlaki
+
+Sarvesh | Chhole Bhature
+
+Siming | Dumpling
+
+Pratik | Cheese Pizza
+
+Maren | Tacos
+
+Stephen | Takoyaki
+
+Sandeep | Pizza
+
+Chinmay | Hot Chicken
+
+Raisa | Doner Kebab
+
+Sebastien | Mac and Cheese
+
+Omar | Cheeseburger
+
+Joseph | Lamb
+
+Sadia | Pizza
+
+Kieara Blackwood | Pasta
+
+Ciaran | Beef Bulgogi
+
+Jonathan Lee | Ramen
+
+Alex V | Sushi
+
+Mark Benders | Beef
+
+Kseniya Liavitskaya | Syrniki (cheese pancakes)
+
+Amanda - Pasta
+
+RuiWang - Ramen
+
+Aaron Chiu | Chicken Sandwich
+
+Alex V | Sushi
+
+Mark Benders | Beef
+
+Nowah Stewart | Mac and Cheese
+
+Diya Brown | Shrimp Alfredo
+
+Kseniya Liavitskaya | Syrniki (cheese pancakes)
+
+Amanda - Pasta
+
+RuiWang - Ramen
+
+Daniella Rabayev | Sushi
+
+Ana Paredes | Pasta
+
+Scharffi | French Fries
+
+Jeffrey Yu | Sushi
+
+Toni-Ann McDaniel | Saltfish
+
+Andy Then | Chicken
+
+Nathan Feng | Burger
+
+Joel Avendano | Chipotle
+
+Russell Ng | Sushi
+
+Justin Tam | Tonkatsu
+
+Grace - Tacos
+
+Donovan Lane | BBQ Bacon Burger
+
+Patrick Casseus | Korean BBQ
+
+Wilson Lu | Sushi
+
+ilir | Fried Chicken
+
+Myron Weng | Soba
+
+Junior Jean | Chiecken Sandwich
+
+Sajal | Ham Burger
+
+Connor Tway | Lobster Roll
+
+Aidan | German Sausages (Second time posting)
+
+Isabella Esquilin | Dumplings
+
+Zara | Pasta
+
+Kadeem Miller | Pizza/Burgers
+
+Supreeth | Biryani
+
+Yash | Pizza
+
+Hinal | Pizza
+
+Parimal | Chinese Food
+
+Abhyaung | Chicken Sandwich
+
+Parimal | Chinese Food
+
+Ansley | Pasta
+
+Fouzan | Shawarma
+
+Cristian | Pizza
+
+Lavanya | biriyani
+
+David | Bacon Egg and Cheese
+
+Marlen | Pasta
+
+ZhifuChen | Pizza
+
+nadeemHussain | Biriyani
+
+Shiv Vyas | Pasta and Pizza
+
+Neelkamal | Chicken Biryani
+
+Christelle | Croissant
+
+David | Bacon Egg and Cheese
+
+Mohan | Biriyani
 
 Steven B | Shawarma!!
+
+Kenny | Potato
+
+Amogh Iyer | Biriyani
+
+Matthew Wrizar | Pizza, Fried Chicken, Fried Rice, Chiken Teriyaki, Shrimp Tempura, Chicken + Pork Katsu, Duck Buns, Drunken Chicken, Spring + Egg Rolls, Burgers, Desserts
+
+Alyssa | Bread
+
+Ayden | Pizza
+
+william | sugarcookies
+
+Gabe | Chocolate
+
+Gabriel F | Spaghetti and Meatballs
+
+Saatvik | Pizza
+
+Michael DePaolo | Hamburger
+
+Dante | Fried Pickles
+
+Narumi | Jajangmyeon
+
+Younes | Pizza
+
+Carson | Kimchi
+
+Nico Middleton | Chocolate cookies
 
 Devin | French Toast
 
 Jonathan | Bacon Egg and Cheese
-
 
 Kerisa | Ashwagandha
 
@@ -179,7 +457,7 @@ Aakash | Ramen
 
 Dhyey | Vadapav
 
-Samuel Viveros | Spicy Steak & French Fries
+Samuel Viveros | Spicy Steak \& French Fries
 
 Yash J | Pizza
 
@@ -211,7 +489,7 @@ Zia | Fried fish
 
 Yash Kawade | Paani Puri
 
-Ceasar-2 | Chicken & Waffles
+Ceasar-2 | Chicken \& Waffles
 
 Freddy Amgad | burger
 
@@ -598,3 +876,5 @@ Bangling|Asian food
 Bangling|AsianFood
 
 Dante | Pizza
+
+Aleks | Wings & Pizza
