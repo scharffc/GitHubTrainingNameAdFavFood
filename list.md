@@ -3,6 +3,22 @@ what is your name, favorite food?
 
 Jocinda | Beef stew
 
+Victor | Chicken Parm
+
+John | Mondongo
+
+Jared | Brownie
+
+Sophia | Mac and cheese
+
+Ivan | Tacos
+
+Dennis | Fries
+
+Karlensky | Pizza
+
+Jordan | Cheesecake
+
 Kaan | Iskender
 
 Dennis | Burger
@@ -65,7 +81,7 @@ Julia | Pieorgi
 
 Julia | Zapiekanka
 
-
+Lavisha | Ramen
 
 Lucas | Pasta
 
